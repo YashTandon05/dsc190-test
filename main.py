@@ -1,5 +1,8 @@
+import os
+
 def main():
-    print("Hello from dsc190-test!")
+    unusedVariable = 3
+    print("This should equal 10:", 7 + numberVariable)
 
 
 if __name__ == "__main__":
